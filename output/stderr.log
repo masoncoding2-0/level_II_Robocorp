@@ -1,0 +1,3 @@
+2025-01-29 11:28:47,759 - RPA.core.certificates - INFO - Truststore injection done, using system certificate store to validate HTTPS.
+C:\ProgramData\robocorp\ht\9008134_b1f3c24_1c0bc041\Lib\site-packages\pypdf\_crypt_providers\_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from this module in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4

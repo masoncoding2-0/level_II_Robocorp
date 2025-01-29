@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/mason/Desktop/cursos Robocorp/Nivel II/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
